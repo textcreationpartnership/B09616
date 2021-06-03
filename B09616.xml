@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advertisement concerning the English atlas, with the proposals.  February 10.  1671/2</title>
+            <author>Ogilby, John, 1600-1676.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09616</idno><idno type="EEBO-CITATION">64551530</idno>
+  <idno type="VID">184677</idno>
+  <idno type="EEBO-PROQUEST">2240863623</idno>
+  
+            <idno type="STC">Wing O162A</idno>
+            <idno type="STC">ESTC R224395</idno>
+            <idno type="OCLC">64551530</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184677)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advertisement concerning the English atlas, with the proposals.  February 10.  1671/2</title>
+                  <author>Ogilby, John, 1600-1676.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ogilby, John, 1600-1676. --  Britannia.</term>
+               <term type="topical_term">Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term type="topical_term">Atlases --  Publishing --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_atlas">
+            <pb facs="tcp:184677:1"/>
+            <head>An <hi>ADVERTISEMENT</hi> concerning the <hi>ENGLISH ATLAS,</hi> with the PROPOSALS. <hi>February</hi> 10. 1671/2.</head>
+            <p>WHereas Mr. <hi>Ogilby,</hi> His Majesties Cosmographer, hath for above Twenty Years last past spent his time in the Com<g ref="char:EOLhyphen"/>pleating several Fair Volumes all Royal <hi>Folios,</hi> adorn'd with many delightful Sculps, and illustrated with variety of Useful Annotations, the like never before Imprinted in the <hi>English</hi> Tongue; <hi>viz. HOMER</hi> the Prince of all, and <hi>VIRGIL</hi> of <hi>Latin</hi> Poets; <hi>AESOP</hi> the most Ancient of <hi>Mythologists,</hi> Paraphras'd in <hi>English</hi> Verse, in two Volumes; <hi>His MAJESTY's Entertainment in His Passage through the City of</hi> London <hi>to His Coronation;</hi> and more especially, at his own Proper Cost and Charges, <hi>The HOLY BIBLE,</hi> in an Extraordinary Character, upon both Imperial and Royal Paper, with above an hundred Chorographical and Historical whole-sheet Sculps: The First Part of <hi>CHINA,</hi> being an Embassy to the <hi>Great Cham,</hi> and the truest Relation of those Parts till that time: Of all which he lately made a general disposal in a Stand<g ref="char:EOLhyphen"/>ing Lottery, which gave Ample Satisfaction to all his Adventurers.</p>
+            <p>Being well encourag'd thereby, he set forth since that time Proposals concerning a New and Great Undertaking, <hi>viz. A Description of the Whole WORLD,</hi> under the Title of <hi>The ENGLISH ATLAS,</hi> to be <hi>comprised in Five Volumes, viz.</hi> AFRICA, AMERICA, ASIA, EUROPE, <hi>and in Particular</hi> BRITANNIA, <hi>the Principal of all, by it self;</hi> and hath, through God's Assistance, been since enabled to Publish two of them, namely, <hi>AFRICA,</hi> and <hi>AMERICA,</hi> to the good liking of the Judicious, in two Fair Volumes, adorn'd with Maps, and other Ornamentals, <hi>at Forty Shilling each Volume in Quires to those that were Encouragers by Subscription, paying Twenty Shillings in hand towards the carrying on of the Work:</hi> Which Price he hath found to be inferior to the Intrinsick Value, for want of the Encouragement which he might well have expected, occasion'd, as he supposes, by these following Reasons.</p>
+            <p>First, He designing onely a reasonable Profit by the vent of the whole Impression (the Number being but small) in some con<g ref="char:EOLhyphen"/>venient time.</p>
+            <p>Secondly, That it has not been sufficiently divulg'd and made known till now, for want of fit opportunity.</p>
+            <p>Thirdly, That many that know of it, yet having never seen more than the first Paper of Proposals, suppos'd that the Sub<g ref="char:EOLhyphen"/>scriptions were full, and no room for more.</p>
+            <p>Therefore considering the Premisses, and the failings that have thus accidentally hapned, He hath found now a fair occasion to give this farther Account to those that would be better inform'd.</p>
+            <p>Upon this his second consideration, and good advise, and not being willing to delay the Encouragers in their Chief Expe<g ref="char:EOLhyphen"/>ctation, resolving to make <hi>BRITANNIA</hi> his third and next Volume, he hath by Addresses to his Majesty obtain'd His Special Warrant for a General Survey of His Kingdom of <hi>ENGLAND</hi> and Principality of <hi>WALES,</hi> in order to the Compleating of the County-Maps, which he hath already begun, this being his main Business, in which he stands most concern'd, wherein he not onely intends a Geographical and Historical Description of <hi>GREAT BRITAIN,</hi> but also to have in their respective Counties the Titles, and various Bearing of the Atchievements, of the Nobility and Gentry, that in so fair a Volume they may stand in a Register of Honor to succeeding Ages: And in order thereunto, he humbly requests all Persons of Quality, in their r<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>spective Counties, who are desirous to promote so Great and Useful a Work, That they would be pleas'd to send in all such Remarques of the Places near which they reside, as shall be worthy to be inserted, for the better Illustration of the intended Volume; and more particularly, if they shall think fit so to be Recorded, the Names of their Residences, their Atchievements, <hi>&amp;c.</hi>
+            </p>
+            <div type="proposal">
+               <p>ANd for the better carrying on of this his GREAT WORK, and Satisfaction of all his Encouragers, he humbly proposeth,</p>
+               <p n="1">I. <hi>That all such as have not hitherto been Subscribers, nor intend to have the already Publish'd, nor the following Volumes of his</hi> ENGLISH ATLAS, <hi>and are onely pleas'd with a New Prospect of their Native Countrey, will pay in Twenty Shillings by way of Subscription, and Ten Shillings more for the inserting their Residence and Atchievements, if they desire it; for which they shall have under the Author's Hand and Seal a Ticket to receive their respective Volume (so soon as finish'd) in Quires; upon the payment of Forty Shillings more.</hi>
+               </p>
+               <p n="2">II. <hi>Such as are more curious in their Paper, are desir'd to Subscribe for Five Pound, for which they shall have one of the said Volumes of</hi> GREAT BRITAIN <hi>on Imperial Paper, with their Place of Residence, Title, and Atchievement, deliver'd them in Quires; of which, Forty Shillings is to be paid in hand, and the Remainder at the Receipt of the Book.</hi>
+               </p>
+               <p n="3">III. <hi>Those that desire to be concern'd no otherwise than by inserting their Residences and Atchievements, which will bring on a farther Charge to the Auth<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r, are desir'd to deposit Ten Shillings, and to send them in, together with the Remarques, according to the times hereunder mention'd:</hi> viz.</p>
+               <p>
+                  <hi>For</hi> Kent, Sussex, Surrey, Hampshire, Wilts, Dorset, Somerset, Devon, <hi>and</hi> Cornwal, <hi>by the First of</hi> May <hi>next ensuing.</hi>
+               </p>
+               <p>
+                  <hi>For</hi> Essex, M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddlesex, Hertford, Oxford, Buckingham, Berks, Gloucester, Suffolk, Norfolk, <hi>and</hi> Rutland, <hi>by the First of</hi> July <hi>then next following.</hi>
+               </p>
+               <p>
+                  <hi>For</hi> Northampton, Huntington, Bedford, Cambridge, Warwick, Leicester, Worcester, Monmouth, Hereford, <hi>and</hi> Lincolnshire, <hi>by the First of</hi> September <hi>then next ensuing. And,</hi>
+               </p>
+               <p>
+                  <hi>For</hi> Notingham, Derby, Stafford, Shropshire, Cheshire, Lancashire, Yorkshire, Durham, Westmorland, Cumberland, <hi>and</hi> Northamberland, <hi>by the First of</hi> December.</p>
+               <p>
+                  <hi>And the Nobility and Gentry in the Principality of</hi> Wales <hi>are likewise desir'd to send in their Remarques, (and Atchievements, if they please, according to this Proposal) within the utmost time above-mention'd.</hi>
+               </p>
+               <p n="4">IV. <hi>Those Subscribers who have taken the former Volumes, may, if they please, go on according to the former Proposal, paying no more for</hi> BRITANNIA, <hi>except Ten Shillings for inserting their Titles and Atchievements, if they desire it.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>Upon these Encouragements timely receiv'd, he makes no question but to go on with the Work, and to present them in due time with what shall be well worth their expectation.</p>
+               <p>And for the ease of such of the Gentry as are far remote from the Authors dwelling, he hath appointed the Persons under<g ref="char:EOLhyphen"/>mention'd, where they may receive full satisfaction concerning his <hi>ENGLISH ATLAS,</hi> and intentions as to his ensuing third Volume <hi>GREAT BRITAIN.</hi>
+               </p>
+               <list>
+                  <item>Mr. <hi>Rest Fenner</hi> for <hi>Canterbury.</hi>
+                  </item>
+                  <item>Mr. <hi>William Oliver</hi> for <hi>Norwich.</hi>
+                  </item>
+                  <item>Mr. <hi>William Kebblewhite</hi> for <hi>Newport</hi> in the Isle of <hi>Wight.</hi>
+                  </item>
+                  <item>Mr. <hi>Robert Foster</hi> for <hi>Shrewsbury.</hi>
+                  </item>
+                  <item>Mr. <hi>Samuel Richards</hi> for <hi>Notingham.</hi>
+                  </item>
+                  <item>Mr. <hi>Abisha Brocas</hi> for <hi>Exon.</hi>
+                  </item>
+                  <item>Mr. <hi>Ralph Shelmerdine</hi> for <hi>Manchester.</hi>
+                  </item>
+                  <item>Mr. <hi>John Courtney</hi> for <hi>Salisbury.</hi>
+                  </item>
+                  <item>Mr. <hi>Ptolomey Samson</hi> for <hi>Totness</hi> in <hi>Devon.</hi>
+                  </item>
+                  <item>Mr. <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                     <hi>Dickenson</hi> for <hi>Cambridge.</hi>
+                  </item>
+                  <item>Mr. <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                     <hi>Thurston</hi> for <hi>Drayton</hi> in <hi>Salop.</hi>
+                  </item>
+                  <item>Mr. <hi>John Brooke</hi> for <hi>Coventry.</hi>
+                  </item>
+                  <item>Mr. <hi>William Churchill</hi> for <hi>Dorchester.</hi>
+                  </item>
+                  <item>Mr. <hi>Peter Swinton</hi> in <hi>Knotsford</hi> for <hi>Cheshire</hi> and <hi>Lancashire.</hi>
+                  </item>
+                  <item>Mr. <hi>Toby Langford</hi> for <hi>Gloucester.</hi>
+                  </item>
+                  <item>Mr. <hi>William Newcombe</hi> for <hi>Derby.</hi>
+                  </item>
+                  <item>Mr. <hi>George West</hi> for <hi>Oxon.</hi>
+                  </item>
+                  <item>Mr. <hi>Edward Pawlet</hi> for <hi>Grantham.</hi>
+                  </item>
+                  <item>Mr. <hi>John Goodrick</hi> for <hi>Hull.</hi>
+                  </item>
+                  <item>Mr. <hi>Edward Lambert</hi> for <hi>York.</hi>
+                  </item>
+                  <item>Mr. <hi>Francis Ward</hi> for <hi>Leicester.</hi>
+                  </item>
+                  <item>Mr. <hi>Richard Randal</hi> and Mr. <hi>Peter Maples<g ref="char:EOLhyphen"/>den</hi> for <hi>Newcastle.</hi>
+                  </item>
+                  <item>Mr. <hi>Francis Rea</hi> for <hi>Worcester.</hi>
+                  </item>
+                  <item>Mr. <hi>John Seaborne</hi> for <hi>Lynne.</hi>
+                  </item>
+                  <item>Mr. <hi>Edward Millward</hi> for <hi>Lichfield.</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Wall</hi> for <hi>Bristol.</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Collins</hi> for <hi>Northampton.</hi>
+                  </item>
+                  <item>Mr. <hi>William Crofts</hi> for <hi>Doncaster.</hi>
+                  </item>
+                  <item>Mr. <hi>Robert Morden</hi> at the <hi>Atlas</hi> in <hi>Corn<g ref="char:EOLhyphen"/>hil</hi> for <hi>London.</hi>
+                  </item>
+                  <item>Mr. <hi>Robert Paske</hi> at the <hi>Stationers Arms and Ink-Bottle</hi> in <hi>Lumbardstreet,</hi> near Sir <hi>Robert Vyner</hi>'s, for <hi>London.</hi>
+                  </item>
+                  <item>Mr. <hi>Robert Clavell</hi> at the General Post-Office in <hi>London,</hi> or at his House in <hi>Little Britain.</hi>
+                  </item>
+                  <item>And the Author, at his own House in <hi>White-Friers,</hi> behind the <hi>Green-Dragon</hi> Tavern in <hi>Fleetstreet, London.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
